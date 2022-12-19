@@ -12,6 +12,8 @@
 */
 
 //CODE HERE
+let myString = ' hello, World' 
+
 
 
 ////////////////// PROBLEM 2 ////////////////////
@@ -31,7 +33,12 @@
 */
 
 //CODE HERE
+function logMyName(name) {
+  console.log(name)
+}
 
+logMyName('Cameron') // Output: Cameron
+  }
 
 ////////////////// PROBLEM 4 ////////////////////
 /*
@@ -44,6 +51,12 @@
 */
 
 //CODE HERE
+fuuntion logMyName(name) {
+console.log('Hello')
+  
+  logMyName('jake') // Output: jake
+}
+
 
 
 ////////////////// PROBLEM 5 ////////////////////
@@ -58,7 +71,8 @@
 */
 
 //CODE HERE
-
+function comparenumber=( num1. num2 ) {
+console.log(}
 
 ////////////////// PROBLEM 6 ////////////////////
 /*
