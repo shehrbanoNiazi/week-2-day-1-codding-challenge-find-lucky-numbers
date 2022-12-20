@@ -72,8 +72,13 @@ console.log('Hello')
 
 //CODE HERE
 function comparenumber=( num1. num2 ) {
-console.log(}
+console.log('bigger number'}
 
+            console.log (' ')
+            
+            
+            
+            
 ////////////////// PROBLEM 6 ////////////////////
 /*
   Create a function called add that takes in two parameters 
@@ -84,7 +89,11 @@ console.log(}
 
 //CODE HERE
 
-
+funtion add( num1, num2) {
+console.log(num1 + num2)
+}
+  sumNumbers(5,4 ) // sum:9
+  
 ////////////////// PROBLEM 7 ////////////////////
 
 /*
@@ -98,7 +107,7 @@ const exclaim = function(str) {
 
 // console.log('arrow')
 // console.log('declaration')
-// console.log('expression')
+//arrow function
 
 
 
@@ -124,7 +133,7 @@ const exclaimTwo = str => {
   Brownie points if you use a template string
 */
 
-
+console.log('arrow')
 
 ////////////////// PROBLEM 9 ////////////////////
 
@@ -141,7 +150,7 @@ function exclaimFour(str) {
 // console.log('declaration')
 // console.log('expression')
 
-
+console.log('declaration')
 ////////////////// PROBLEM 10 ////////////////////
 /*
   Write a function called nameCheck that takes in a name parameter.
@@ -153,7 +162,19 @@ function exclaimFour(str) {
 
 //CODE HERE
 
+  
 
+   function namecheck=(name)  {
+  console.log('steven')
+ let nameGreeting = return('Whats up steve') 
+if namecheck = (name) {
+ console.log=('brain'}
+let nameGreeting = retrun('Hey Brain')
+}
+  
+  
+  
+  
 ////////////////// PROBLEM 11 ////////////////////
 /*
   Write a function called faveColorFinder that takes in one parameter called color (which will be a string).
@@ -165,7 +186,18 @@ function exclaimFour(str) {
 */
 
 //CODE HERE
-
+function faveColorFinder(color) {
+} (color === 'red') {
+return 'redis a great color'
+} else if (color === 'green') {
+ return 'green is a solid favorite color'}
+  else if (color ==== 'black') {
+  return 'so trendy'} else {
+  return 'you need to evaluate your favorite color choice', ${color} }
+  
+  
+  let colorrating = faveColorFinder('black');
+  
 
 ////////////////// PROBLEM 12 ////////////////////
 let namesArr = ['Cameron', 'Riley', 'Eric', 'Brenna', 'Karl']
